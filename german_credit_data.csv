@@ -14,7 +14,7 @@
 12,22,female,2,own,little,moderate,1567,12,radio/TV,good
 13,60,male,1,own,little,little,NA,24,car,bad
 14,28,female,2,rent,little,little,1403,15,car,good
-15,32,female,1,own,moderate,little,1282,24,radio/TV,bad
+15,32,female,1,own,moderate,little,NA,24,radio/TV,bad
 16,53,male,2,own,NA,NA,2424,24,radio/TV,good
 17,25,male,2,own,NA,little,8072,30,business,good
 18,44,female,3,free,little,moderate,12579,24,car,bad
@@ -26,7 +26,7 @@
 24,26,male,2,own,NA,NA,2069,10,furniture/equipment,good
 25,36,male,1,own,little,little,1374,6,furniture/equipment,good
 26,39,male,1,own,little,NA,426,6,radio/TV,good
-27,42,female,2,rent,rich,rich,409,12,radio/TV,good
+27,42,female,2,rent,rich,rich,NA,12,radio/TV,good
 28,34,male,2,own,little,moderate,2415,7,radio/TV,good
 29,63,male,2,own,little,little,6836,60,business,bad
 30,36,male,2,own,rich,moderate,1913,18,business,good
